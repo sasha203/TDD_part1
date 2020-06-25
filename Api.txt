@@ -1,0 +1,2 @@
+api using:
+http://api.openweathermap.org/data/2.5/weather?q=Valletta&units=metric&appid=d12e761b653064784c9d028522c92fe9
